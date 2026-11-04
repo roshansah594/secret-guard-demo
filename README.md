@@ -2,13 +2,14 @@
 
 **Hands-on Security Lab | Python | Git | GitHub | Gitleaks**
 
-Welcome, team!
+Welcome, team! Thannk
 
 Today, you will reproduce a real-world security practice: preventing hard-coded API keys from entering a Git repository.
 
 You will configure a pre-commit hook, deliberately introduce a fake API key, observe the hook block the commit, fix the code, and submit a pull request.
 
 ## Learning Objectives
+
 
 By completing this exercise, you will learn to:
 
